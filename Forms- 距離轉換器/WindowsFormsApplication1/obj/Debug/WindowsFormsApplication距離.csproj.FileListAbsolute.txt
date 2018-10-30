@@ -1,0 +1,12 @@
+C:\Users\Red1i1i1\Documents\Visual Studio 2015\Projects\距離轉換器Forms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Red1i1i1\Documents\Visual Studio 2015\Projects\距離轉換器Forms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Red1i1i1\Documents\Visual Studio 2015\Projects\距離轉換器Forms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Red1i1i1\Desktop\距離轉換器Forms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Red1i1i1\Desktop\距離轉換器Forms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Red1i1i1\Desktop\距離轉換器Forms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Red1i1i1\Desktop\距離轉換器Forms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication距離.csprojResolveAssemblyReference.cache
+C:\Users\Red1i1i1\Desktop\距離轉換器Forms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Author11.resources
+C:\Users\Red1i1i1\Desktop\距離轉換器Forms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Red1i1i1\Desktop\距離轉換器Forms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication距離.csproj.GenerateResource.Cache
+C:\Users\Red1i1i1\Desktop\距離轉換器Forms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Red1i1i1\Desktop\距離轉換器Forms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb

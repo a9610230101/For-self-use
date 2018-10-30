@@ -1,0 +1,13 @@
+C:\Users\Andy\source\repos\leapYear\leapYear\bin\Debug\leapYear.exe.config
+C:\Users\Andy\source\repos\leapYear\leapYear\bin\Debug\leapYear.exe
+C:\Users\Andy\source\repos\leapYear\leapYear\bin\Debug\leapYear.pdb
+C:\Users\Andy\source\repos\leapYear\leapYear\obj\Debug\leapYear.csprojAssemblyReference.cache
+C:\Users\Andy\source\repos\leapYear\leapYear\obj\Debug\leapYear.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\leapYear\leapYear\obj\Debug\leapYear.exe
+C:\Users\Andy\source\repos\leapYear\leapYear\obj\Debug\leapYear.pdb
+C:\Users\shcd2\Desktop\leapYear-20181030T023727Z-001\leapYear\leapYear\bin\Debug\leapYear.exe.config
+C:\Users\shcd2\Desktop\leapYear-20181030T023727Z-001\leapYear\leapYear\obj\Debug\leapYear.exe
+C:\Users\shcd2\Desktop\leapYear-20181030T023727Z-001\leapYear\leapYear\obj\Debug\leapYear.pdb
+C:\Users\shcd2\Desktop\leapYear-20181030T023727Z-001\leapYear\leapYear\bin\Debug\leapYear.exe
+C:\Users\shcd2\Desktop\leapYear-20181030T023727Z-001\leapYear\leapYear\bin\Debug\leapYear.pdb
+C:\Users\shcd2\Desktop\leapYear-20181030T023727Z-001\leapYear\leapYear\obj\Debug\leapYear.csprojResolveAssemblyReference.cache

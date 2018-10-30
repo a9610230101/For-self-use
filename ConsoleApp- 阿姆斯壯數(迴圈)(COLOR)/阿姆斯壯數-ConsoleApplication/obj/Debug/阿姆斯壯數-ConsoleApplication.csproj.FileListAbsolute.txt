@@ -1,0 +1,12 @@
+c:\users\red1i1i1\documents\visual studio 2015\Projects\阿姆斯壯數-ConsoleApplication\阿姆斯壯數-ConsoleApplication\bin\Debug\阿姆斯壯數-ConsoleApplication.exe.config
+c:\users\red1i1i1\documents\visual studio 2015\Projects\阿姆斯壯數-ConsoleApplication\阿姆斯壯數-ConsoleApplication\bin\Debug\阿姆斯壯數-ConsoleApplication.exe
+c:\users\red1i1i1\documents\visual studio 2015\Projects\阿姆斯壯數-ConsoleApplication\阿姆斯壯數-ConsoleApplication\bin\Debug\阿姆斯壯數-ConsoleApplication.pdb
+c:\users\red1i1i1\documents\visual studio 2015\Projects\阿姆斯壯數-ConsoleApplication\阿姆斯壯數-ConsoleApplication\obj\Debug\阿姆斯壯數-ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\red1i1i1\documents\visual studio 2015\Projects\阿姆斯壯數-ConsoleApplication\阿姆斯壯數-ConsoleApplication\obj\Debug\阿姆斯壯數-ConsoleApplication.exe
+c:\users\red1i1i1\documents\visual studio 2015\Projects\阿姆斯壯數-ConsoleApplication\阿姆斯壯數-ConsoleApplication\obj\Debug\阿姆斯壯數-ConsoleApplication.pdb
+C:\Users\Red1i1i1\Documents\Visual Studio 2015\Projects\阿姆斯壯數-ConsoleApplication(se)\阿姆斯壯數-ConsoleApplication\bin\Debug\阿姆斯壯數-ConsoleApplication.exe.config
+C:\Users\Red1i1i1\Documents\Visual Studio 2015\Projects\阿姆斯壯數-ConsoleApplication(se)\阿姆斯壯數-ConsoleApplication\obj\Debug\阿姆斯壯數-ConsoleApplication.exe
+C:\Users\Red1i1i1\Documents\Visual Studio 2015\Projects\阿姆斯壯數-ConsoleApplication(se)\阿姆斯壯數-ConsoleApplication\obj\Debug\阿姆斯壯數-ConsoleApplication.pdb
+C:\Users\Red1i1i1\Documents\Visual Studio 2015\Projects\阿姆斯壯數-ConsoleApplication(se)\阿姆斯壯數-ConsoleApplication\bin\Debug\阿姆斯壯數-ConsoleApplication.exe
+C:\Users\Red1i1i1\Documents\Visual Studio 2015\Projects\阿姆斯壯數-ConsoleApplication(se)\阿姆斯壯數-ConsoleApplication\bin\Debug\阿姆斯壯數-ConsoleApplication.pdb
+C:\Users\Red1i1i1\Documents\Visual Studio 2015\Projects\阿姆斯壯數-ConsoleApplication(se)\阿姆斯壯數-ConsoleApplication\obj\Debug\阿姆斯壯數-ConsoleApplication.csprojResolveAssemblyReference.cache
